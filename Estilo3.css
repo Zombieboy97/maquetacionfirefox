@@ -1,0 +1,182 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  }
+  body{
+    font-family: Helvetica;
+    font-size: 16px;
+    line-height: 24px;
+    color: #302323;
+  }
+  .ancho{
+    width: 1200px;
+    margin: auto;
+  }
+  .margen{
+    padding: 15px;
+  }
+  .foto1{
+    margin-left: 50PX;
+    height: 70px;
+    width: 150px;
+    float: left;
+    padding-top: 30px;
+  }
+  .contenedor_cabeza{
+    background-color: rgb(241, 241, 241);
+    height: 100px;
+
+  }.botones{
+    font-weight: bolder;
+    padding-left: 200px;
+    width: 1200px;
+  }
+  .boton{
+    text-decoration: none;
+    color: black;
+    padding-left: 25px;
+  }
+  #Descargar {
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 1px solid rgb(38, 0, 255);
+    color: rgb(38, 0, 255);
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    float: right;
+    margin: auto;
+  }
+  #cont_logo{
+    width: 200px;
+    margin-left: 270px;
+    float: left;
+  }
+#logo{
+  width:  170px;
+  height: 100px;
+  padding-left: 50px;
+}.texto1{
+padding-left: 50px;
+}
+#Texto2{
+  padding-left: 50px;
+  font-size: 15px;
+}
+.contenedor_izquierda{
+  width: 600px;
+  float: left;
+  margin: auto;
+  clear: both;
+}
+.contenedor_derecha{
+  width: 600px;
+  margin: auto;
+  float: right;
+  height: 400px;
+}
+#btn_desc{
+  background-color: rgb(38, 0, 255);
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  margin-left: 50px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+#aviso{
+  font-size: 13px;
+  margin-left: 40px;
+  padding: 10px;
+}
+.cont_dino{
+padding-left: 200px;
+clear: both;
+background-color: rgb(212, 212, 212);
+height: 650px;
+text-align: center;
+border: 1px solid transparent;
+}
+
+#dino{
+width: 400px;
+height: 500px;
+float: left;
+}
+#info{
+  margin-top: 70px;
+  margin-left: 400px;
+  font-size: 50px;
+  width: 400px;
+  word-spacing: 30px;
+  line-height: 60px;
+  text-align: center;
+  height: 400px;
+}
+.float{
+  float: right;
+}#texto3{
+width: 300PX;
+margin-left: 450px;
+}
+.float_izq{
+  float: left;
+  margin-left: 30px;
+}
+span{
+  color: blue;
+  font-weight: bolder;
+}
+.seccion{
+  width: 300px;
+  display: inline-block;
+  margin-left: 90px;
+  text-align: center;
+}
+h3{
+  font-size: 30px;
+  text-decoration: underline;
+}
+.cont_email{
+  height: 300px;
+  text-align: center;
+}
+.bloq{
+  display: inline-block;
+}#imagen_email{
+  float: left;
+  margin-left: 220px;
+}
+#email{
+  margin-top: 70px;
+  text-align: left;
+}h2{
+  font-size: 30px;
+}
+#fuente{
+  font-size: 10px;
+  font-weight: bold;
+  text-align: left;
+}
+.largo{
+width: 300px;
+}
+#btn_sign{
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+#texto_bajo{
+  font-size: 10px;
+  text-align: center;
+}
+#cont_img_bajo{
+  background-color: black;
+  height: 110px;
+  text-align: center;
+}
+#img_bajo{
+  padding-top: 50px;
+}
